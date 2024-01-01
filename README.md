@@ -1,20 +1,23 @@
 
-Bem-vindo ao meu GitHub! 👋
-Olá, pessoal! Sou Amanda, uma entusiasta da tecnologia apaixonado por criar coisas novas. Este é o meu espaço no GitHub, onde compartilho projetos, experimentos e aprendizados.
+**Bem-vindo ao meu GitHub! 👋**<br/>
 
-Sobre Mim
-👨‍💻 Desenvolvedor React
-🌐 Apaixonado por tecnologias web
-🚀 Sempre buscando aprender e evoluir
+Olá, pessoal! Sou Amanda, uma entusiasta da tecnologia apaixonado por criar coisas novas. 
+Este é o meu espaço no GitHub, onde compartilho projetos, experimentos e aprendizados.
 
-Como Colaborar
+**Sobre Mim**
+<br/><br/>
+👨‍💻 Desenvolvedor React<br/>
+🌐 Apaixonado por tecnologias web<br/>
+🚀 Sempre buscando aprender e evoluir<br/>
+
+**Como Colaborar**<br/><br/>
 Se você está interessado em contribuir ou apenas dar uma olhada nos meus projetos, fique à vontade! Confira as instruções básicas no README de cada projeto para começar.
-
-Contato
-📧 E-mail: nanda.hamandadesouza@gmail.com
-🌐 Portfolio - https://a-mandaflores.github.io/
-👨‍💻 Linkedin - https://www.linkedin.com/in/amandasouzasilva
-
+<br/><br/>
+**Contato**<br/>
+📧 E-mail: nanda.hamandadesouza@gmail.com<br/>
+🌐 Portfolio - https://a-mandaflores.github.io/<br/>
+👨‍💻 Linkedin - https://www.linkedin.com/in/amandasouzasilva<br/>
+<br/>
 Fique à vontade para explorar, contribuir e entrar em contato! 
   
   ##
