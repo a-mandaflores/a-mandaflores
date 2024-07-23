@@ -6,7 +6,7 @@ Este é o meu espaço no GitHub, onde compartilho projetos, experimentos e apren
 
 **Sobre Mim**
 <br/><br/>
-👨‍💻 Desenvolvedora Vue.js<br/>
+👨‍💻 Desenvolvedora Backend .NET <br/>
 🌐 Apaixonado por tecnologias web<br/>
 🚀 Sempre buscando aprender e evoluir<br/>
 
