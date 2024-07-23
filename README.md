@@ -15,7 +15,6 @@ Se você está interessado em contribuir ou apenas dar uma olhada nos meus proje
 <br/><br/>
 **Contato**<br/>
 📧 E-mail: nanda.hamandadesouza@gmail.com<br/>
-🌐 Portfolio - https://a-mandaflores.github.io/<br/>
 👨‍💻 Linkedin - https://www.linkedin.com/in/amandasouzasilva<br/>
 <br/>
 Fique à vontade para explorar, contribuir e entrar em contato! 
